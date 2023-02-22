@@ -62,7 +62,7 @@ while (!resultat.done) {
  resultat = it.next();
 }
 
-console.log("La séquence parcourue contenait ", result.value, " éléments.");
+console.log("La séquence parcourue contenait ", resultat.value, " éléments.");
 ```
 
 ## Itérables
